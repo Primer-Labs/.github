@@ -24,14 +24,13 @@ At Primer Labs, we focus on:
 - **Cloud Solutions**: Deploying scalable and secure cloud infrastructure for projects.
 
 ## Current Projects
-1. **Project Name**: Brief description of your current project.
-2. **Project Name**: Brief description of another project you're working on.
+1. **Puthulir (CED/ AUSEC)**: Online quiz hosting platform for a state-wide quiz hosted by CED and AUSEC
 
 We continuously collaborate on innovative projects, using our diverse skill sets to create impactful software solutions.
 
 ## Connect With Us
 - [Aryan's GitHub](https://github.com/aryaniyaps)
-- [Hari's GitHub](https://github.com/your-github-handle)
+- [Hari's GitHub](https://github.com/Haz3-jolt)
 
 If you'd like to collaborate, feel free to reach out or contribute to our repositories!
 
