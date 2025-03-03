@@ -2,7 +2,7 @@
 
 Welcome to **Primer Labs**, a software development team composed of two passionate students from the College of Engineering, Guindy (Anna University). We are explorers in the world of technology, building projects that span mobile development, web applications, and deep learning models.
 
-## Team
+## About the Team
 
 ### Aryan Iyappan
 - **Role**: Fullstack Web Developer
