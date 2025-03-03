@@ -6,7 +6,7 @@ Welcome to **Primer Labs**, a software development team composed of two passiona
 
 ### Aryan Iyappan
 - **Role**: Fullstack Web Developer
-- **Skills**: Python, TypeScript, Elixir, React, FastAPI, Koa, Express
+- **Skills**: Python, TypeScript, Elixir, Next.js, React, Relay, GraphQL, FastAPI, Node.js
 - **Interests**: Fullstack development, deep learning, cloud infrastructure
 - **Bio**: Aryan is an enthusiastic fullstack web developer recently diving into the world of deep learning. With a strong foundation in backend and frontend technologies, he builds scalable and modern web applications.
 
